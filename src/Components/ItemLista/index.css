@@ -1,0 +1,4 @@
+.header-instalador, .body-instalador{
+    display: flex;
+    justify-content: space-between;
+}

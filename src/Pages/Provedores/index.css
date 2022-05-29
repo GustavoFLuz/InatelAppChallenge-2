@@ -1,0 +1,14 @@
+#listagem{
+    overflow-y: scroll;
+    height: calc(105vh - var(--altura-navbar));
+    display: flex;
+    flex-direction: column;
+}
+#listagem::-webkit-scrollbar {
+    display: none;
+  }
+  
+  #listagem {
+    -ms-overflow-style: none;
+    scrollbar-width: none; 
+  }

@@ -1,0 +1,39 @@
+
+.card{
+    margin: 15px;
+}
+.card-header{
+    cursor: pointer;
+}
+.preco{
+    float: right;
+}
+.download{
+    font-size: 1.2em;
+    float: left;
+    background-color: #54C5C0 !important;
+}
+.upload{
+    font-size: 1.2em;
+    float: right;
+    background-color: #BF71FF !important;
+}
+.icon{
+    vertical-align: baseline;
+    margin: 0 10px;
+}
+.descricao{
+    max-width: 50%;
+    font-size: 1.1em;
+    font-weight: 300;
+    text-align: justify;
+}
+.capacidade{
+    margin: auto;
+    font-weight: bold;
+}
+.conferir{
+    font-size: 1.3em; 
+    float:right; 
+    margin-top:15;
+}

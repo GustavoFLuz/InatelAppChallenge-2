@@ -1,0 +1,15 @@
+#instaladores {
+  overflow-y: scroll !important;
+  height: 50vh;
+}
+#instaladores::-webkit-scrollbar {
+  display: none;
+}
+
+#instaladores {
+  -ms-overflow-style: none;
+  scrollbar-width: none; 
+}
+.card {
+  margin: 15px;
+}

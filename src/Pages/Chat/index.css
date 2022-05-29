@@ -1,0 +1,43 @@
+.name-installer {
+  background-color: var(--primary);
+  color: var(--white);
+  border-radius: 15px;
+  font-size: 1.5em;
+  font-weight: 500;
+}
+
+.chat-input-area{
+    width: 90%;
+    position: absolute;
+    bottom: 15px;
+    left: 5%;
+    font-size: 1.5em;
+    border: 10px solid var(--primary);
+    border-radius: 15px;
+}
+
+.chat-input{
+    border: none;
+}
+.chat-input-send{
+    transform: translateX(1px);
+}
+
+.message-area{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-start;
+    align-items: flex-end;
+    height: calc(100vh - 35vh);
+    padding: 0 5%;
+}
+
+.message{
+    font-size: 1.2em;
+    padding: 5px;
+    background-color: #16a3c3;
+    text-align: end;
+    color: var(--white);
+    margin: 5px 0; 
+    border-radius: 10px;
+}

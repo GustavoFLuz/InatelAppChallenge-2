@@ -1,0 +1,19 @@
+.erro404{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--);
+}
+
+.alerta{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#retornar{
+    color: #842029;
+    background-color: #f8d7da;
+}
