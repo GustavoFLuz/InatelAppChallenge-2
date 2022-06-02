@@ -11,6 +11,9 @@ No diretório do projeto crie um arquivo `.env.local` com suas chaves da [Google
 `REACT_APP_MAPBOX_TOKEN= SUA_CHAVE_MAPBOX`
 `REACT_APP_GOOGLE_KEY= SUA_CHAVE_GOOGLE`
 
-E rode no terminal o comando :
+Execute o comando para instalar as dependências:
+### `npm install`
+
+E finalmente execute no terminal o comando :
 ### `npm start`
 
